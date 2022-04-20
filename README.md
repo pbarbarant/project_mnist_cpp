@@ -18,7 +18,7 @@ données d'entraînement avec K=3 (pour une accuracy de ~97.5%).
 
 Les fichiers main.cpp, kdtree.h et point.h constituent le cœur de l'algorithme
 et ont été ecrits par nos soins. Seul le fichier mnist.h servant a charger les
-données MNIST provient d'une source externe.
+données MNIST provient d'une source externe ([Nuri Park](https://github.com/projectgalateia/mnist))
 
 Le projet a été compilé grâce a g++ (Rev6, Built by MSYS2 project) 11.2.0
 sous Windows 11.
